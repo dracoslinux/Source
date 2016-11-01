@@ -200,7 +200,7 @@ fi
 # autoload -U compinit
 # compinit
 export BLOCKSIZE=K
-export BROWSER='google-chrome-stable'
+export BROWSER='firefox'
 export CDDIR="$HOME"
 export EDITOR='vim'
 export VISUAL='vim'
